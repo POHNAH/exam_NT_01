@@ -1,0 +1,15 @@
+vuser_init.c(5): 131106.777156744zHtDiAtpiftAtzcpicQV
+CreateTicket.c(52): 150;600;04/15/2021
+CreateTicket.c(54): 511;534;04/18/2021
+CreateTicket.c(126): Куплен билет из Frankfurt до Portland. Цена: 1134. ID рейса туда: 150;600;04/15/2021. ID рейса обратно: 511;534;04/18/2021.
+vuser_init.c(5): 131106.777237748zHtDiAtpiftVzzzHtAtzcpicQVcf
+CreateTicket.c(52): 941;127;04/15/2021
+CreateTicket.c(54): 490;143;04/18/2021
+CreateTicket.c(126): Куплен билет из Denver до Paris. Цена: 270. ID рейса туда: 941;127;04/15/2021. ID рейса обратно: 490;143;04/18/2021.
+vuser_init.c(5): 131106.777318753zHtDiAtpifiDDDDDtAtzcpicQVf
+vuser_init.c(5): 131106.777399757zHtDiAtpizcftAtzcpicQVHf
+vuser_init.c(5): 131106.777480761zHtDiAtpizzzzzzHtAtzcpicQc
+CreateTicket.c(52): 732;165;04/15/2021
+CreateTicket.c(54): 371;155;04/18/2021
+CreateTicket.c(126): Куплен билет из Paris до Los Angeles. Цена: 320. ID рейса туда: 732;165;04/15/2021. ID рейса обратно: 371;155;04/18/2021.
+Vuser Terminated.
